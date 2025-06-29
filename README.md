@@ -48,10 +48,7 @@ Durante o desenvolvimento do sistema, foram aplicados diversos conceitos da disc
 - Validação com `.isdigit()`
 - Controle de formato de data com `split()`
 
-## 5) Diagrama de Funcionalidades
-[Imagem representando as funcionalidades e atores envolvidos - descrição textual]
-
-## 6) Desenvolvimento
+## 5) Desenvolvimento
 **O que foi feito:**
 Foi desenvolvido um sistema em linguagem Python com interface textual simples para gerenciamento de manutenções de equipamentos.
 
@@ -66,7 +63,7 @@ Foi desenvolvido um sistema em linguagem Python com interface textual simples pa
 - Execução em ambiente local
 - Biblioteca padrão random
 
-## 7) Conclusão/Resultados
+## 6) Conclusão/Resultados
 O sistema desenvolvido atende plenamente às necessidades básicas de registro e consulta de manutenções de equipamentos. Ele é simples, leve, e pode ser facilmente expandido.
 
 **Pontos positivos:**
@@ -78,7 +75,7 @@ O sistema desenvolvido atende plenamente às necessidades básicas de registro e
 - Os dados não são salvos após o fechamento do programa
 - A interface é limitada ao modo texto no terminal
 
-## 8) Trabalhos Futuros
+## 7) Trabalhos Futuros
 Possibilidades de melhorias e novos caminhos:
 - Adição de salvamento de dados em arquivos .txt, .csv ou .json
 - Criação de uma interface gráfica
